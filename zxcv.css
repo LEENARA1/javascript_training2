@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-sm-4 {
+    margin-right: 15px;
+}
+
+.show {
+    display: none;
+}
